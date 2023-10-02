@@ -48,3 +48,13 @@ VITE_API_BASE_URL=http://[firstname]-[lastname]-server.eddi.cloud/projet-disc-ot
 ```
 
 _Et voilà_, everything is ready ! Enjoy :)
+
+## CREDIT
+FrontEnd Team:
+- Eva Redon (https://github.com/evaredon)
+- Sahra Marchand (https://github.com/sahramarchand)
+- Yan Berdin (https://github.com/YanBerdin)
+
+BackEnd Team:
+- Gaëtan Leborgne (https://github.com/GaetanLeborgne)
+- Romain Gradelet (https://github.com/Romain-GRADELET)
